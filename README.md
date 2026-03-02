@@ -2,7 +2,7 @@
 
 Welcome to my academic portfolio! I am a Master's graduate in Mathematics from EPFL (École Polytechnique Fédérale de Lausanne), with a background in Physics. 
 
-This repository serves as a centralized archive for my academic research, technical reports, and curriculum vitae.
+This repository serves as a centralized archive for my academic research and technical reports.
 
 ---
 
