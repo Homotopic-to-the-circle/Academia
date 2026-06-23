@@ -7,7 +7,7 @@ This repository serves as a centralized archive for my academic research and tec
 ---
 
 ## Master's Thesis
-**[Bounds and structure of the cyclotomic shortness of Phi_1^N](./Master_Thesis_Maillefer_Younous.pdf)**
+**[Bounds and structure of the cyclotomic shortness of Phi_1^N](./Master_Thesis/Master_Thesis_Maillefer_Younous.pdf)**
 * **Supervisors:** Prof. Maryna Viazovska (EPFL) & Prof. James McKee
 * **Date:** Autumn 2025
 * **Summary:** An investigation into the cyclotomic shortness of (z-1)^N to minimize the L1-norm of polynomials, motivated by compact representations of small Mahler measures. This work derives a strict exponential upper bound using Euler's Pentagonal Number Theorem and establishes a new linear lower bound by exploiting moment conditions and the discrete Uncertainty Principle.
