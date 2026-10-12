@@ -21,7 +21,8 @@ This repository serves as a centralized archive for my academic research and tec
 ---
 
 ## Upcoming Research
-*(Additional research papers and technical reports will be added here as they are finalized.)*
+* **Cyclotomic shortness, the case N = 7:** a preprint in preparation extending the thesis to the first open case, combining forced-factor results (resultants and Galois orbits) with an exhaustive computer search supporting sh((z-1)^7) = 16.
+* **Information ontologies:** independent research on how to model data as objects, relations and actions that both humans and AI agents can reason over.
 
 ---
 **Contact:** [younous.maillefer@ik.me](mailto:younous.maillefer@ik.me)
